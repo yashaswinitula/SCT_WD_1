@@ -32,7 +32,7 @@ The task focuses on creating a **responsive landing page** with a **fixed and in
 - **JavaScript** – Scroll-based interactivity  
 
 ---
-## output scrrenshot
+## output screenshot
 <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/df9cfefb-5f69-4a69-a27d-2e8f687b0fb2" />
 
 
