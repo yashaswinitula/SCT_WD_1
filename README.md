@@ -29,7 +29,11 @@ The task focuses on creating a **responsive landing page** with a **fixed and in
 ### 🛠️ Technologies Used
 - **HTML** – Page structure  
 - **CSS** – Styling and responsiveness  
-- **JavaScript** – Scroll-based interactivity  
+- **JavaScript** – Scroll-based interactivity
+
+
+  live demo
+  
 
 ---
 ## output screenshot
