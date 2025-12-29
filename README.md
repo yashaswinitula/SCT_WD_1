@@ -33,6 +33,7 @@ The task focuses on creating a **responsive landing page** with a **fixed and in
 
 
   live demo
+  https://yashaswinitula.github.io/SCT_WD_1/
   
 
 ---
